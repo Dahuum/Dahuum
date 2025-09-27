@@ -1,7 +1,7 @@
 ```ts
 let abdu = {
     currentLearning: ["System Programming", "C", "Assembly", "Java"],
-    editor: "Zed IDE",
+    editor: "nvim",
     email: "abderrahmanech@outlook.fr"
 };
 ```
